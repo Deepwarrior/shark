@@ -1,0 +1,3 @@
+[submodule "src/room_bot"]
+	path = src/room_bot
+	url = https://github.com/Deepwarrior/room_bot.git
